@@ -33,4 +33,4 @@ Build an app that is functionally similar to [https://technical-documentation-pa
 
 ## Demo
 
-For a demo, check out [ap-fcc-technical-documentation-page.netlify.app](ap-fcc-technical-documentation-page.netlify.app)
+For a demo, check out [https://ap-fcc-technical-documentation-page.netlify.app/](https://ap-fcc-technical-documentation-page.netlify.app/)
