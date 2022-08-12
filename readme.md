@@ -33,4 +33,4 @@ Build an app that is functionally similar to [https://technical-documentation-pa
 
 ## Demo
 
-For a demo, check out [https://alexperronnet.github.io/freecodecamp-technical-documentation-page/](https://alexperronnet.github.io/freecodecamp-technical-documentation-page/)
+For a demo, check out [freecodecamp-technical-documentation-page](https://alexperronnet.github.io/freecodecamp-technical-documentation-page/)
